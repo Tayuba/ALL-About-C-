@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1633876698 source:c:\users\ayuba\documents\github\c++\all-about-c-\day 17\main.cpp
+	<iostream>
+	<ctime>
+
