@@ -6,7 +6,7 @@ int ranNum()
     int max;
     max = 100;
     srand(time(0));
-    for(int i = -1; i<100; i++) {
+    for(int i = 0; i<100; i++) {
        return rand() % max + 1;
     }
 }
